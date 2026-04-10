@@ -626,7 +626,7 @@
         "name": "Q.G",
         "type": "BASE",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/BASES/Q.G.png",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/BASES/CRIADOR%20DE%20CARTA.png",
         "isHorizontal": true
       }
     },
@@ -694,7 +694,7 @@
         "name": "LABORATÓRIO DE WILL",
         "type": "BASE",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/BASES/LOBORATÓRIO%20DE%20WILL.png",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/BASES/LABORAT%C3%93RIO%20DE%20WILL.png",
         "isHorizontal": true
       }
     },
