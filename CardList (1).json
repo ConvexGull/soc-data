@@ -1,0 +1,723 @@
+{
+  "H1": {
+    "id": "H1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "VEX",
+        "type": "HERÓI",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/HERÓIS/VEX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "VEX, O GASEIFICADO",
+    "type": "HERÓI",
+    "cost": 0,
+    "": ""
+  },
+  "H2": {
+    "id": "H2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "LAYRA",
+        "type": "HERÓI",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/HERÓIS/LAYRA.png",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "LAYRA",
+        "type": "MÁGICA",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/HERÓIS/LAYRA%20COSTAS.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "LAYRA, A POSSUIDA",
+    "type": "HERÓI",
+    "cost": 0,
+    "": ""
+  },
+  "H3": {
+    "id": "H3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "CONVEX",
+        "type": "HERÓI",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/HERÓIS/CONVEX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "CONVEX, O CARNICEIRO",
+    "type": "HERÓI",
+    "cost": 0,
+    "": ""
+  },
+  "H4": {
+    "id": "H4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "LAYLA",
+        "type": "HERÓI",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/HERÓIS/LAYLA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "LAYLA, A PACIFICADORA",
+    "type": "HERÓI",
+    "cost": 0,
+    "": ""
+  },
+  "H5": {
+    "id": "H5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "LORSH",
+        "type": "HERÓI",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/HERÓIS/LORSH.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "LORSH, A MAGA ESPECIAL",
+    "type": "HERÓI",
+    "cost": 0,
+    "": ""
+  },
+  "H6": {
+    "id": "H6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "CINNAMON",
+        "type": "HERÓI",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/HERÓIS/CINNAMON.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "CINNAMON, FRENESI EM BALAS",
+    "type": "HERÓI",
+    "cost": 0,
+    "": ""
+  },
+  "M1FS": {
+    "id": "M1FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "EXPLOSÃO",
+        "type": "MÁGICA",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/MÁGICAS/EXPLOSÃO.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "EXPLOSÃO",
+    "type": "MÁGICA",
+    "cost": "5",
+    "": ""
+  },
+  "M2FS": {
+    "id": "M2FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ESFERA MÁGICA",
+        "type": "MÁGICA",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/MÁGICAS/ESFERA%20MÁGICA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "ESFERA MÁGICA",
+    "type": "MÁGICA",
+    "cost": "2",
+    "": ""
+  },
+  "M3FS": {
+    "id": "M3FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "OBSTRUÇÃO",
+        "type": "MÁGICA",
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/MÁGICAS/OBSTRUÇÃO%20DA%20LUZ%20NEGRA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "OBSTRUÇÃO DE LUZ NEGRA",
+    "type": "MÁGICA",
+    "cost": "6",
+    "": ""
+  },
+  "M4FS": {
+    "id": "M4FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "VONTADE SENSI",
+        "type": "MÁGICA",
+        "cost": "7",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/MÁGICAS/VONTADE%20DE%20SENSI.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "VONTADE DE SENSI",
+    "type": "MÁGICA",
+    "cost": "7",
+    "": ""
+  },
+  "M5FS": {
+    "id": "M5FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "CRIAÇÃO",
+        "type": "MÁGICA",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/MÁGICAS/CRIAÇÃO%20NÃO%20TÃO%20INTELIGENTE.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "CRIAÇÃO NÃO TÃO INTELIGENTE",
+    "type": "MÁGICA",
+    "cost": 0,
+    "": ""
+  },
+  "M6FS": {
+    "id": "M6FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "VIDÊNCIA",
+        "type": "MÁGICA",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/MÁGICAS/VIDÊNCIA%20DE%20LORSH.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "VIDÊNCIA DE LORSH",
+    "type": "MÁGICA",
+    "cost": "1",
+    "": ""
+  },
+  "M7FS": {
+    "id": "M7FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "IDEIA CRIANÇA",
+        "type": "MÁGICA",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/MÁGICAS/IDEIA%20DE%20CRIANÇA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "IDEIA DE CRIANÇA",
+    "type": "MÁGICA",
+    "cost": "2",
+    "": ""
+  },
+  "M8FS": {
+    "id": "M8FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "REVIRAVOLTA",
+        "type": "MÁGICA",
+        "cost": "11",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/MÁGICAS/REVIRAVOLTA%20METÁLICA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "REVIRAVOLTA METÁLICA",
+    "type": "MÁGICA",
+    "cost": "10",
+    "": ""
+  },
+  "M9FS": {
+    "id": "M9FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "NÃO",
+        "type": "MÁGICA",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/MÁGICAS/NANANINANÃO.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "NANANINANÃO",
+    "type": "MÁGICA",
+    "cost": "1",
+    "": ""
+  },
+  "M10FS": {
+    "id": "M10FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "SABOTAGEM",
+        "type": "MÁGICA",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/MÁGICAS/ANULAR.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "SABOTAGEM",
+    "type": "MÁGICA",
+    "cost": "1",
+    "": ""
+  },
+  "M11FS": {
+    "id": "M11FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ANULAR",
+        "type": "MÁGICA",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/MÁGICAS/SABOTAGEM.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "ANULAR",
+    "type": "MÁGICA",
+    "cost": "2",
+    "": ""
+  },
+  "C1FS": {
+    "id": "C1FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "APRENDIZ LORSH",
+        "type": "CIDADÃO",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/CIDADÕES/APRENDIZ%20DE%20LORSH.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "APRENDIZ DE LORSH",
+    "type": "CIDADÃO",
+    "cost": "3",
+    "": ""
+  },
+  "C2FS": {
+    "id": "C2FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FAMINTO",
+        "type": "CIDADÃO",
+        "cost": "9",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/CIDADÕES/O%20FAMINTO%20POR%20SANGUE.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "O FAMINTO POR SANGUE",
+    "type": "CIDADÃO",
+    "cost": "9",
+    "": ""
+  },
+  "C3FS": {
+    "id": "C3FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ISHAAN",
+        "type": "CIDADÃO",
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/CIDADÕES/ISHAAN%2C%20CONVOCADO%20POR%20DAISY.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "ISHAAN, CONVOCADO POR DAISY",
+    "type": "CIDADÃO",
+    "cost": "6",
+    "": ""
+  },
+  "C4FS": {
+    "id": "C4FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "LIDER",
+        "type": "CIDADÃO",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/CIDADÕES/LIDER%20DE%20ESTRATÉGIAS.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "LIDER DE ESTRATÉGIAS",
+    "type": "CIDADÃO",
+    "cost": "4",
+    "": ""
+  },
+  "C5FS": {
+    "id": "C5FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "MONSTRO",
+        "type": "CIDADÃO",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/CIDADÕES/MONSTRO%20DE%20SUCATA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "MONSTRO DE SUCATA",
+    "type": "CIDADÃO",
+    "cost": "2",
+    "": ""
+  },
+  "C6FS": {
+    "id": "C6FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "POLICIAL",
+        "type": "CIDADÃO",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/CIDADÕES/POLICIAL%20CORRUPTO.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "POLICIAL CORRUPTO",
+    "type": "CIDADÃO",
+    "cost": "3",
+    "": ""
+  },
+  "C7FS": {
+    "id": "C7FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "DESUKEN",
+        "type": "CIDADÃO",
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/CIDADÕES/DESUKEN%20DA%20LUA%20NOVA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "DESUKEN DA LUA NOVA",
+    "type": "CIDADÃO",
+    "cost": "6",
+    "": ""
+  },
+  "C8FS": {
+    "id": "C8FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "NICOLS",
+        "type": "CIDADÃO",
+        "cost": "7",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/CIDADÕES/NICOLS%20DO%20SOL%20RÉGIO.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "NICOLS DO SOL RÉGIO",
+    "type": "CIDADÃO",
+    "cost": "7",
+    "": ""
+  },
+  "C9FS": {
+    "id": "C9FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "OPERADOR",
+        "type": "CIDADÃO",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/CIDADÕES/OPERADOR%20DA%20FABRICA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "OPERADOR DA FABRICA",
+    "type": "CIDADÃO",
+    "cost": "4",
+    "": ""
+  },
+  "E1FS": {
+    "id": "C10FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "MASCARA VEX",
+        "type": "EQUIPAMENTO",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/EQUIPAMENTOS/MASCARA%20DE%20VEX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "MASCARA DE VEX",
+    "type": "EQUIPAMENTO",
+    "cost": "2",
+    "": ""
+  },
+  "E2FS": {
+    "id": "C11FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ARMA CINNAMON",
+        "type": "EQUIPAMENTO",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/EQUIPAMENTOS/ARMA%20DE%20CINNAMON.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "ARMA DE CINNAMON",
+    "type": "EQUIPAMENTO",
+    "cost": "2",
+    "": ""
+  },
+  "E3FS": {
+    "id": "E3FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "LIVRO LORSH",
+        "type": "EQUIPAMENTO",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/EQUIPAMENTOS/LIVRO%20DE%20LORSH.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "LIVRO DE LORSH",
+    "type": "EQUIPAMENTO",
+    "cost": "4",
+    "": ""
+  },
+  "E4FS": {
+    "id": "E4FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "COLETE CONVEX",
+        "type": "EQUIPAMENTO",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/EQUIPAMENTOS/COLETE%20DE%20SEGURANÇA%20DE%20CONVEX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "COLETE DE SEGURANÇA DE CONVEX",
+    "type": "EQUIPAMENTO",
+    "cost": "2",
+    "": ""
+  },
+  "E5FS": {
+    "id": "E5FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "PULSEIRA",
+        "type": "EQUIPAMENTO",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/EQUIPAMENTOS/PULSEIRA%20DE%20LAYLA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "PULSEIRA DE LAYLA",
+    "type": "EQUIPAMENTO",
+    "cost": "1",
+    "": ""
+  },
+  "E6FS": {
+    "id": "E6FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "MICROFONE",
+        "type": "EQUIPAMENTO",
+        "cost": "4",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/EQUIPAMENTOS/MICROFONE%20DE%20LAYRA.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "MICROFONE DE LAYRA",
+    "type": "EQUIPAMENTO",
+    "cost": "4",
+    "": ""
+  },
+  "E7FS": {
+    "id": "E7FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "LIVRO XURUMI",
+        "type": "EQUIPAMENTO",
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/EQUIPAMENTOS/LIVRO%20DE%20APRENDIZAGENS%20DE%20XURUMI.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "LIVRO DE APRENDIZADO DE XURUMI",
+    "type": "EQUIPAMENTO",
+    "cost": "6",
+    "": ""
+  },
+  "E8FS": {
+    "id": "E8FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "MANOPLA SENSI",
+        "type": "EQUIPAMENTO",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/EQUIPAMENTOS/MANOPLA%20DE%20SENSI.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "MANOPLA DE SENSI",
+    "type": "EQUIPAMENTO",
+    "cost": "5",
+    "": ""
+  },
+  "E9FS": {
+    "id": "E9FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "BOLHA",
+        "type": "EQUIPAMENTO",
+        "cost": "8",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/EQUIPAMENTOS/BOLHA%20DE%20PROTEÇÃO.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "BOLHA DE PROTEÇÃO",
+    "type": "EQUIPAMENTO",
+    "cost": "8",
+    "": ""
+  },
+  "E10FS": {
+    "id": "E10FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ARMA ANTIGA",
+        "type": "EQUIPAMENTO",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/EQUIPAMENTOS/ARMA%20ANTIGA%20DE%20XURUMI%20E%20CONVEX.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "ARMA ANTIGA DE XURUMI E CONVEX",
+    "type": "EQUIPAMENTO",
+    "cost": "5",
+    "": ""
+  },
+  "B1": {
+    "id": "B1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Q.G",
+        "type": "BASE",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/BASES/Q.G.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Q.G",
+    "type": "BASE",
+    "cost": 0,
+    "": ""
+  },
+  "B2FS": {
+    "id": "B2FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FERRO VELHO",
+        "type": "BASE",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/BASES/FERRO%20VELHO.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "FERRO VELHO",
+    "type": "BASE",
+    "cost": 0,
+    "": ""
+  },
+  "B3FS": {
+    "id": "B3FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "CAMPO TERINAMENTO",
+        "type": "BASE",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/BASES/CAMPO%20DE%20TREINAMENTO.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "CAMPO DE TREINAMENTO",
+    "type": "BASE",
+    "cost": 0,
+    "": ""
+  },
+  "B4FS": {
+    "id": "B4FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": "BASE",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/BASES/Q.G%20DA%20DAISY.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "Q.G DA DAISY",
+    "type": "BASE",
+    "cost": 0,
+    "": ""
+  },
+  "B5FS": {
+    "id": "B5FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "LABORATÓRIO DE WILL",
+        "type": "BASE",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/BASES/LOBORATÓRIO%20DE%20WILL.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "LABORÁTORIO DE WILL",
+    "type": "BASE",
+    "cost": 0,
+    "": ""
+  },
+  "B6FS": {
+    "id": "B6FS",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "SALA SEGURA",
+        "type": "BASE",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/ConvexGull/TCG-image/refs/heads/main/SOC%20CARTAS/BASES/SALA%20SEGURA.png",
+        "isHorizontal": true
+      }
+    },
+    "name": "SALA SEGURA",
+    "type": "BASE",
+    "cost": 0,
+    "": ""
+  }
+}
